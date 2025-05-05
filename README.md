@@ -122,3 +122,20 @@ Fitness Habit Tracker solves all of the above with:
 5. **Dashboard**
    - Weather, XP, Health stats, weekly insights, suggestions, and gym map
 
+
+## 🔮 Future Enhancements
+
+Apple Watch integration for real-time workout tracking
+
+Community challenges and social features
+
+Personalized workout plans
+
+Voice command support via Siri
+
+Nutrition and meal tracking
+
+## 👤 Author
+Venkata Nikhil Amirisetty
+INFO 6350 – Smartphone-Based Web Development
+Northeastern University
