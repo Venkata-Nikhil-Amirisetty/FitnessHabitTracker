@@ -51,8 +51,8 @@
 |-------------------|---------------------------------------------|
 | SwiftUI           | Declarative UI Framework                    |
 | Firebase Auth     | User Authentication                         |
-| Firebase Firestore| Cloud Storage and Data Sync (if needed)     |
-| SwiftData         | Local persistent storage (SQLite)           |
+| Firebase Firestore| Cloud Storage and Data Sync                 |
+| SwiftData         | Local persistent storage                    |
 | Charts Framework  | Visual Analytics & Habit Statistics         |
 | CoreLocation      | Getting user's current location             |
 | MapKit            | Displaying nearby gyms                      |
