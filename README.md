@@ -137,5 +137,7 @@ Nutrition and meal tracking
 
 ## 👤 Author
 Venkata Nikhil Amirisetty
+
 INFO 6350 – Smartphone-Based Web Development
+
 Northeastern University
